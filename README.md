@@ -1,1 +1,0 @@
-This project entails creating a software in python language to covertly capture and record keystrokes on a computer. While legitimate for monitoring or diagnostics, misuse can lead to unauthorized surveillance or data theft.
